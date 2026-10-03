@@ -1,4 +1,4 @@
-# laharyyteja9
+
 # Hi, I'm Lahari Teja 👋
 
 Computer science student building web apps and exploring AI and cybersecurity. I work mostly with TypeScript, JavaScript, and Python.
